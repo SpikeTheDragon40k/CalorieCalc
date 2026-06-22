@@ -1,0 +1,389 @@
+Nome;Categoria;Kcal_per_100g
+Carne di maiale (in media, senza interiora, cotoletta, stinco), cruda;Carne e frattaglie/Maiale;160
+Cordon bleu di maiale, preparato;Carne e frattaglie/Maiale;241
+Cordon bleu di vitello, preparato;Carne e frattaglie/Vitello;234
+Carne (in media, senza interiora), cruda;Carne e frattaglie;146
+Brodo di carne preparato;Cibi/Brodi e zuppe;5
+Brodo di pollo preparato;Cibi/Brodi e zuppe;5
+Brodo di verdura, preparato;Cibi/Brodi e zuppe;6
+Minestrone;Cibi/Brodi e zuppe;53
+Aceto;Diversi/Sale, spezie e aromi;22
+Aceto balsamico;Diversi/Sale, spezie e aromi;128
+Hummus;Diversi/Salse;204
+Ketchup;Diversi/Salse;117
+Pesto verde;Diversi/Salse;430
+Ragù alla bolognese;Diversi/Salse;96
+Salsa di soia;Diversi/Salse;56
+Senape;Diversi/Salse;124
+Bombolone farcito;Dolciumi/Altre pasticceri dolci;336
+Panettone;Dolciumi/Altre pasticceri dolci;354
+Cioccolato al latte;Dolciumi/Cioccolato e prodotti a base di cacao;537
+Cioccolato, bianco;Dolciumi/Cioccolato e prodotti a base di cacao;567
+Cioccolato, nero (amaro);Dolciumi/Cioccolato e prodotti a base di cacao;537
+Cacao in polvere;Dolciumi/Cioccolato e prodotti a base di cacao;419
+Cioccolato in polvere;Dolciumi/Cioccolato e prodotti a base di cacao;398
+Marmellata;Dolciumi/Confettura e prodotti dolci da spalmare sul pane;246
+Melassa, sciroppo di melassa;Dolciumi/Confettura e prodotti dolci da spalmare sul pane;274
+Miele (miele di fiori);Dolciumi/Confettura e prodotti dolci da spalmare sul pane;306
+Lemon Curd;Dolciumi/Creme e budini;320
+Zucchero bianco;Dolciumi/Zuccheri ed edulcoranti;400
+Albicocca, cruda;Frutta/Frutta fresca;48
+Ananas, crudo;Frutta/Frutta fresca;52
+Anguria, cruda;Frutta/Frutta fresca;31
+Bacche (in media), crude;Frutta/Frutta fresca;42
+Banana, cruda;Frutta/Frutta fresca;95
+Cachi, crudo;Frutta/Frutta fresca;71
+Ciliegie, crude;Frutta/Frutta fresca;74
+Fico, crudo;Frutta/Frutta fresca;74
+Fragola, cruda;Frutta/Frutta fresca;40
+Kiwi, crudo;Frutta/Frutta fresca;54
+Lampone, crudo;Frutta/Frutta fresca;52
+Mandarino, crudo;Frutta/Frutta fresca;47
+Mango, crudo;Frutta/Frutta fresca;62
+Mela, cruda;Frutta/Frutta fresca;55
+Melone, crudo;Frutta/Frutta fresca;38
+Mirtillo, crudo;Frutta/Frutta fresca;58
+Mora, cruda;Frutta/Frutta fresca;44
+Pera, cruda;Frutta/Frutta fresca;58
+Pesca noce, cruda;Frutta/Frutta fresca;51
+Pesca, cruda;Frutta/Frutta fresca;48
+Prugna, cruda;Frutta/Frutta fresca;48
+Prugne susine, crude;Frutta/Frutta fresca;43
+Uva, cruda;Frutta/Frutta fresca;69
+Datteri, secchi;Frutta/Frutta secca;305
+Fichi, secchi;Frutta/Frutta secca;273
+Prugna, secca;Frutta/Frutta secca;204
+Uvetta, secca;Frutta/Frutta secca;321
+Maionese;Grassi e oli/Maionese;742
+Olio d'oliva;Grassi e oli/Oli;810
+Olio di arachidi;Grassi e oli/Oli;810
+Olio di canapa;Grassi e oli/Oli;810
+Olio di cartamo;Grassi e oli/Oli;810
+Olio di colza;Grassi e oli/Oli;810
+Olio di girasole HO, raffinato;Grassi e oli/Oli;810
+Olio di noce;Grassi e oli/Oli;810
+Olio di semi di girasole;Grassi e oli/Oli;810
+Olio di semi di lino, spremuto a freddo;Grassi e oli/Oli;810
+Olio di semi di mais;Grassi e oli/Oli;810
+Olio di semi di zucca;Grassi e oli/Oli;810
+Formaggio a pasta dura e semi dura, grasso (in media);Latte e prodotti di latte/Formaggio a pasta dura;397
+Gorgonzola;Latte e prodotti di latte/Formaggio a pasta dura;357
+Parmigiano;Latte e prodotti di latte/Formaggio a pasta dura;401
+Formaggio a pasta molle (in media senza prodotti sgrassati);Latte e prodotti di latte/Formaggio a pasta molle;325
+Ricotta;Latte e prodotti di latte/Formaggio fresco e quark;122
+Mozzarella;Latte e prodotti di latte/Formaggio fresco e quark;256
+Latte parzialmente scremato, pastorizzato;Latte e prodotti di latte/Latte;56
+Burro da cucina;Latte e prodotti di latte/Panna e burro;745
+Panna intera, pastorizzata;Latte e prodotti di latte/Panna e burro;334
+Panna semigrassa, pastorizzata;Latte e prodotti di latte/Panna e burro;274
+Yogurt, naturale;Latte e prodotti di latte/Yogurt e latte acidulato;66
+Anacardi;Noci, semi e frutti oleosi;593
+Arachidi;Noci, semi e frutti oleosi;623
+Castagne, crude;Noci, semi e frutti oleosi;210
+Mandorle;Noci, semi e frutti oleosi;624
+Nocciole;Noci, semi e frutti oleosi;661
+Noce di cocco;Noci, semi e frutti oleosi;384
+Noce di cocco, secca;Noci, semi e frutti oleosi;681
+Noci;Noci, semi e frutti oleosi;709
+Oliva, verde, in salamoia, sgocciolata;Noci, semi e frutti oleosi;154
+Olive, nere;Noci, semi e frutti oleosi;176
+Pinoli;Noci, semi e frutti oleosi;688
+Pistacchi;Noci, semi e frutti oleosi;594
+Avocado, crudo;Noci, semi e frutti oleosi;144
+Fiocchi di avena;Pane, fiocchi e cereali per la prima colazione/Fiocchi, crusca e germi;381
+Fiocchi di cereali (in media);Pane, fiocchi e cereali per la prima colazione/Fiocchi, crusca e germi;348
+Cornflakes;Pane, fiocchi e cereali per la prima colazione/Mix di muesli e cereali per la prima colazione;363
+Pane (in media);Pane, fiocchi e cereali per la prima colazione/Pane e prodotti di panetteria;264
+Calamaro, crudo;Pesce/Frutti di mare e crostacei;83
+Crostaceo (in media), crudo;Pesce/Frutti di mare e crostacei;75
+Gambero, cotto;Pesce/Frutti di mare e crostacei;46
+Gambero, crudo;Pesce/Frutti di mare e crostacei;56
+Pesce (in media), crudo;Pesce/Pesci di mare;146
+Acciuga sott'olio, sgocciolata;Pesce/Pesci di mare;182
+Bastoncino di pesce, impanato e prefritto;Pesce/Pesci di mare;230
+Merluzzo bianco, crudo;Pesce/Pesci di mare;76
+Nasello, crudo;Pesce/Pesci di mare;71
+Salmone d'allevamento, crudo;Pesce/Pesci di mare;200
+Salmone, affumicato;Pesce/Pesci di mare;167
+Tonno, crudo;Pesce/Pesci di mare;149
+Tonno, sott'olio, sgocciolato;Pesce/Pesci di mare;186
+Surimi;Pesce/Prodotti della pesca;125
+Pangrattato;Prodotti a base di cereali, legumi e patate/Farine e amidi;373
+Ceci, cotti (senza aggiunta di grassi e sale);Prodotti a base di cereali, legumi e patate/Legumi;127
+Fagioli di soia, secchi;Prodotti a base di cereali, legumi e patate/Legumi;399
+Fagiolo comune (tutti tipi), seme maturo, cotto;Prodotti a base di cereali, legumi e patate/Legumi;111
+Legumi (in media), cotti;Prodotti a base di cereali, legumi e patate/Legumi;127
+Legumi (in media), secchi;Prodotti a base di cereali, legumi e patate/Legumi;336
+Lenticchia, decorticata, secca;Prodotti a base di cereali, legumi e patate/Legumi;334
+Lenticchie, intere, secche;Prodotti a base di cereali, legumi e patate/Legumi;324
+Pasta all'uovo, secca;Prodotti a base di cereali, legumi e patate/Pasta;365
+Pasta, secca;Prodotti a base di cereali, legumi e patate/Pasta;353
+Patata dolce, cruda;Prodotti a base di cereali, legumi e patate/Patate;81
+Patate, pelate, crude;Prodotti a base di cereali, legumi e patate/Patate;76
+Riso tipo parboiled, secco;Prodotti a base di cereali, legumi e patate/Riso;356
+Cotto;Prodotti carnei e insaccati/Insaccati cotti;93
+Prosciutto cotto;Prodotti carnei e insaccati/Insaccati cotti;104
+Bresaola;Prodotti carnei e insaccati/Insaccati crudi;167
+Pancetta;Prodotti carnei e insaccati/Insaccati crudi;467
+Prosciutto crudo;Prodotti carnei e insaccati/Insaccati crudi;229
+Salsiccia cruda (in media);Prodotti carnei e insaccati/Insaccati crudi;456
+Affettato (in media);Prodotti carnei e insaccati/Salsicce scottate;276
+Mortadella;Prodotti carnei e insaccati/Salsicce scottate;314
+Albume d'uovo, crudo;Uova;44
+Tuorlo d'uovo, crudo;Uova;349
+Uovo di gallina, intero, crudo;Uova;140
+Asparago, al vapore;Verdure/Verdure cotte;26
+Bietola;Verdure/Verdure cotte;29
+Broccoli, al vapore;Verdure/Verdure cotte;28
+Cavolfiore, al vapore;Verdure/Verdure cotte;26
+Cavoli (in media), cotti;Verdure/Verdure cotte;28
+Cavolini di Bruxelles, al vapore;Verdure/Verdure cotte;39
+Cavolo bianco, al vapore;Verdure/Verdure cotte;28
+Cavolo rapa, al vapore;Verdure/Verdure cotte;28
+Cavolo rosso, stufato;Verdure/Verdure cotte;26
+Cetriolini, sott'aceto;Verdure/Verdure cotte;14
+Crauti, sott'aceto;Verdure/Verdure cotte;19
+Fagiolini verdi, al vapore;Verdure/Verdure cotte;32
+Pannocchiette di mais, sott'aceto;Verdure/Verdure cotte;119
+Piselli, conserva;Verdure/Verdure cotte;87
+Barbabietola, cruda;Verdure/Verdure fresche;46
+Carota, cruda;Verdure/Verdure fresche;38
+Cetriolo, crudo;Verdure/Verdure fresche;14
+Cipolla, cruda;Verdure/Verdure fresche;39
+Finocchio, crudo;Verdure/Verdure fresche;23
+Lattuga cappuccio, cruda;Verdure/Verdure fresche;14
+Lattuga ghiaccio, cruda;Verdure/Verdure fresche;16
+Lattuga romana, cruda;Verdure/Verdure fresche;16
+Melanzana, cruda;Verdure/Verdure fresche;23
+Peperone rosso, crudo;Verdure/Verdure fresche;32
+Peperone verde, crudo;Verdure/Verdure fresche;20
+Pomodoro, crudo;Verdure/Verdure fresche;21
+Porro, crudo;Verdure/Verdure fresche;30
+Rafano, crudo;Verdure/Verdure fresche;18
+Rucola, cruda;Verdure/Verdure fresche;28
+Sedano, crudo;Verdure/Verdure fresche;15
+Spinaci, crudi;Verdure/Verdure fresche;23
+Taccole, crude;Verdure/Verdure fresche;68
+Verza, cruda;Verdure/Verdure fresche;31
+Zucca, cruda;Verdure/Verdure fresche;23
+Zucchina, cruda;Verdure/Verdure fresche;19
+Pasta integrale, secca;Prodotti a base di cereali, legumi e patate/Pasta;335
+Pasta di semola, secca;Prodotti a base di cereali, legumi e patate/Pasta;356
+Spaghetti, cotti;Prodotti a base di cereali, legumi e patate/Pasta;131
+Penne, secche;Prodotti a base di cereali, legumi e patate/Pasta;353
+Fusilli, secchi;Prodotti a base di cereali, legumi e patate/Pasta;353
+Gnocchi di patate, freschi;Prodotti a base di cereali, legumi e patate/Pasta;135
+Lasagne, secche;Prodotti a base di cereali, legumi e patate/Pasta;365
+Riso integrale, secco;Prodotti a base di cereali, legumi e patate/Riso;362
+Riso basmati, secco;Prodotti a base di cereali, legumi e patate/Riso;356
+Riso venere, secco;Prodotti a base di cereali, legumi e patate/Riso;360
+Riso, cotto;Prodotti a base di cereali, legumi e patate/Riso;120
+Farro, secco;Prodotti a base di cereali, legumi e patate/Cereali;335
+Orzo perlato, secco;Prodotti a base di cereali, legumi e patate/Cereali;354
+Couscous, secco;Prodotti a base di cereali, legumi e patate/Cereali;376
+Quinoa, secca;Prodotti a base di cereali, legumi e patate/Cereali;368
+Bulgur, secco;Prodotti a base di cereali, legumi e patate/Cereali;342
+Grano saraceno, secco;Prodotti a base di cereali, legumi e patate/Cereali;343
+Amaranto, secco;Prodotti a base di cereali, legumi e patate/Cereali;371
+Patate, bollite;Prodotti a base di cereali, legumi e patate/Patate;86
+Patate, fritte;Prodotti a base di cereali, legumi e patate/Patate;312
+Purea di patate (preparata con latte);Prodotti a base di cereali, legumi e patate/Patate;105
+Fave, secche;Prodotti a base di cereali, legumi e patate/Legumi;341
+Lupini, cotti;Prodotti a base di cereali, legumi e patate/Legumi;107
+Edamame, cotti;Prodotti a base di cereali, legumi e patate/Legumi;121
+Fagioli borlotti, secchi;Prodotti a base di cereali, legumi e patate/Legumi;337
+Fagioli cannellini, secchi;Prodotti a base di cereali, legumi e patate/Legumi;329
+Piselli, secchi;Prodotti a base di cereali, legumi e patate/Legumi;338
+Ceci, secchi;Prodotti a base di cereali, legumi e patate/Legumi;339
+Farina di grano tenero;Prodotti a base di cereali, legumi e patate/Farine e amidi;367
+Farina integrale;Prodotti a base di cereali, legumi e patate/Farine e amidi;340
+Farina di mais;Prodotti a base di cereali, legumi e patate/Farine e amidi;364
+Polenta, secca;Prodotti a base di cereali, legumi e patate/Farine e amidi;362
+Pecorino romano;Latte e prodotti di latte/Formaggio a pasta dura;420
+Pecorino sardo;Latte e prodotti di latte/Formaggio a pasta dura;395
+Fiore sardo;Latte e prodotti di latte/Formaggio a pasta dura;395
+Grana padano;Latte e prodotti di latte/Formaggio a pasta dura;398
+Provolone;Latte e prodotti di latte/Formaggio a pasta dura;360
+Asiago;Latte e prodotti di latte/Formaggio a pasta dura;386
+Montasio;Latte e prodotti di latte/Formaggio a pasta dura;380
+Taleggio;Latte e prodotti di latte/Formaggio a pasta molle;310
+Camembert;Latte e prodotti di latte/Formaggio a pasta molle;310
+Brie;Latte e prodotti di latte/Formaggio a pasta molle;340
+Fontina;Latte e prodotti di latte/Formaggio a pasta molle;389
+Scamorza;Latte e prodotti di latte/Formaggio a pasta molle;309
+Mascarpone;Latte e prodotti di latte/Formaggio fresco e quark;460
+Crescenza;Latte e prodotti di latte/Formaggio fresco e quark;290
+Caprino fresco;Latte e prodotti di latte/Formaggio fresco e quark;260
+Ricotta di pecora;Latte e prodotti di latte/Formaggio fresco e quark;170
+Yogurt greco;Latte e prodotti di latte/Yogurt e latte acidulato;97
+Yogurt magro;Latte e prodotti di latte/Yogurt e latte acidulato;46
+Latte intero;Latte e prodotti di latte/Latte;64
+Latte scremato;Latte e prodotti di latte/Latte;35
+Latte di capra;Latte e prodotti di latte/Latte;69
+Panna montata;Latte e prodotti di latte/Panna e burro;292
+Burro;Latte e prodotti di latte/Panna e burro;717
+Salsiccia di suino fresca;Prodotti carnei e insaccati/Insaccati crudi;320
+Salsiccia di pollo;Prodotti carnei e insaccati/Insaccati crudi;210
+Speck;Prodotti carnei e insaccati/Insaccati crudi;256
+Salame;Prodotti carnei e insaccati/Insaccati crudi;400
+Coppa;Prodotti carnei e insaccati/Insaccati crudi;340
+Culatello;Prodotti carnei e insaccati/Insaccati crudi;320
+Lardo;Prodotti carnei e insaccati/Insaccati crudi;880
+Guanciale;Prodotti carnei e insaccati/Insaccati crudi;655
+Wurstel;Prodotti carnei e insaccati/Insaccati cotti;280
+Pollo, petto, crudo;Carne e frattaglie/Pollame;105
+Pollo, coscia, crudo;Carne e frattaglie/Pollame;140
+Pollo, ala, cruda;Carne e frattaglie/Pollame;175
+Tacchino, petto, crudo;Carne e frattaglie/Pollame;105
+Tacchino, coscia, cruda;Carne e frattaglie/Pollame;131
+Fesa di tacchino, arrosto;Prodotti carnei e insaccati/Insaccati cotti;95
+Manzo, magro, crudo;Carne e frattaglie/Manzo;130
+Manzo, grasso, crudo;Carne e frattaglie/Manzo;200
+Vitello, magro, crudo;Carne e frattaglie/Vitello;115
+Vitello, grasso, crudo;Carne e frattaglie/Vitello;180
+Agnello, coscia, cruda;Carne e frattaglie/Agnello, pecora;174
+Agnello, costato, crudo;Carne e frattaglie/Agnello, pecora;220
+Coniglio, carne, cruda;Carne e frattaglie/Selvaggina;148
+Cavallo, carne, cruda;Carne e frattaglie;125
+Cinghiale, carne, cruda;Carne e frattaglie/Selvaggina;117
+Fegato di vitello, crudo;Carne e frattaglie/Frattaglie;135
+Fegato di pollo, crudo;Carne e frattaglie/Frattaglie;119
+Trippa, cruda;Carne e frattaglie/Frattaglie;53
+Orata, cruda;Pesce/Pesci di mare;89
+Branzino (spigola), crudo;Pesce/Pesci di mare;94
+Sgombro, crudo;Pesce/Pesci di mare;205
+Sardina, cruda;Pesce/Pesci di mare;130
+Sogliola, cruda;Pesce/Pesci di mare;77
+Trota, cruda;Pesce/Pesci d'acqua dolce;120
+Baccalà, ammollato;Pesce/Pesci di mare;81
+Polpo, crudo;Pesce/Frutti di mare e crostacei;57
+Seppia, cruda;Pesce/Frutti di mare e crostacei;79
+Cozze, crude;Pesce/Frutti di mare e crostacei;90
+Vongole, crude;Pesce/Frutti di mare e crostacei;83
+Ostriche, crude;Pesce/Frutti di mare e crostacei;68
+Cozze sgusciate, cotte;Pesce/Frutti di mare e crostacei;150
+Pizza margherita;Piatti pronti/Pizza e focacce;260
+Pizza napoletana;Piatti pronti/Pizza e focacce;250
+Pizza quattro formaggi;Piatti pronti/Pizza e focacce;280
+Focaccia;Piatti pronti/Pizza e focacce;320
+Lasagna al forno;Piatti pronti/Pasta ripiena e torte salate;165
+Ravioli, freschi;Piatti pronti/Pasta ripiena e torte salate;180
+Tortellini, freschi;Piatti pronti/Pasta ripiena e torte salate;200
+Risotto ai funghi;Piatti pronti/Primi piatti;130
+Risotto alla milanese;Piatti pronti/Primi piatti;140
+Risotto allo zafferano;Piatti pronti/Primi piatti;145
+Polenta, cotta;Prodotti a base di cereali, legumi e patate/Farine e amidi;82
+Tiramisù;Dolciumi/Dolci al cucchiaio;380
+Panna cotta;Dolciumi/Dolci al cucchiaio;320
+Cannolo siciliano;Dolciumi/Altre pasticceri dolci;340
+Gelato alla crema;Dolciumi/Gelati;210
+Gelato al cioccolato;Dolciumi/Gelati;230
+Gelato alla frutta;Dolciumi/Gelati;140
+Sorbetto al limone;Dolciumi/Gelati;130
+Croissant vuoto;Dolciumi/Altre pasticceri dolci;420
+Croissant alla crema;Dolciumi/Altre pasticceri dolci;440
+Cornetto integrale;Dolciumi/Altre pasticceri dolci;380
+Biscotti secchi;Dolciumi/Altre pasticceri dolci;430
+Biscotti frollini;Dolciumi/Altre pasticceri dolci;480
+Caffè, amaro;Bevande analcoliche/Caffè e tè;2
+Caffè con latte;Bevande analcoliche/Caffè e tè;30
+Cappuccino;Bevande analcoliche/Caffè e tè;42
+Tè, non zuccherato;Bevande analcoliche/Caffè e tè;1
+Succo d'arancia;Bevande analcoliche/Succhi e bevande;44
+Succo di mela;Bevande analcoliche/Succhi e bevande;46
+Succo di pompelmo;Bevande analcoliche/Succhi e bevande;36
+Succhi di frutta (in media);Bevande analcoliche/Succhi e bevande;42
+Coca cola;Bevande analcoliche/Bibite gassate;42
+Sprite;Bevande analcoliche/Bibite gassate;42
+Birra chiara;Bevande alcoliche/Birra;42
+Birra scura;Bevande alcoliche/Birra;50
+Vino rosso;Bevande alcoliche/Vino;85
+Vino bianco;Bevande alcoliche/Vino;80
+Spumante brut;Bevande alcoliche/Vino;75
+Aperol spritz;Bevande alcoliche/Aperitivi;85
+Negroni;Bevande alcoliche/Aperitivi;120
+Cocktail (in media);Bevande alcoliche/Aperitivi;110
+Acqua;Bevande analcoliche/Acqua;0
+Caffè macchiato;Bevande analcoliche/Caffè e tè;25
+Latte macchiato;Bevande analcoliche/Caffè e tè;50
+Orzo;Bevande analcoliche/Caffè e tè;12
+Cioccolata calda;Bevande analcoliche/Bevande al cacao;110
+Melograno, crudo;Frutta/Frutta fresca;73
+Fico d'India, crudo;Frutta/Frutta fresca;60
+Ribes, crudo;Frutta/Frutta fresca;33
+Mirtillo nero, crudo;Frutta/Frutta fresca;46
+Mela cotogna, cruda;Frutta/Frutta fresca;38
+Nespola, cruda;Frutta/Frutta fresca;28
+Giuggiola, cruda;Frutta/Frutta fresca;90
+Carciofo, crudo;Verdure/Verdure fresche;53
+Asparago, crudo;Verdure/Verdure fresche;25
+Radicchio, crudo;Verdure/Verdure fresche;23
+Indivia, cruda;Verdure/Verdure fresche;15
+Scarola, cruda;Verdure/Verdure fresche;20
+Cavolo nero, crudo;Verdure/Verdure fresche;35
+Ravanello, crudo;Verdure/Verdure fresche;16
+Prezzemolo;Verdure/Verdure fresche;36
+Basilico;Verdure/Verdure fresche;44
+Menta;Verdure/Verdure fresche;44
+Rosmarino;Verdure/Verdure fresche;131
+Sale;Diversi/Sale, spezie e aromi;0
+Pepe;Diversi/Sale, spezie e aromi;255
+Curcuma;Diversi/Sale, spezie e aromi;354
+Zenzero, fresco;Diversi/Sale, spezie e aromi;80
+Aglio, crudo;Diversi/Sale, spezie e aromi;149
+Funghi champignon, crudi;Verdure/Verdure fresche;22
+Funghi porcini, crudi;Verdure/Verdure fresche;27
+Funghi trifolati;Verdure/Verdure cotte;50
+Tartufo nero;Verdure/Verdure fresche;30
+Pomodori pelati;Verdure/Verdure cotte;22
+Passata di pomodoro;Verdure/Verdure cotte;24
+Concentrato di pomodoro;Verdure/Verdure cotte;82
+Olive verdi;Noci, semi e frutti oleosi;154
+Capperi;Diversi/Sale, spezie e aromi;23
+Parmigiano, grattugiato;Latte e prodotti di latte/Formaggio a pasta dura;450
+Pangrattato integrale;Prodotti a base di cereali, legumi e patate/Farine e amidi;356
+Uovo di quaglia, intero;Uova;170
+Uovo di anatra, intero;Uova;175
+Tofu;Prodotti a base di cereali, legumi e patate/Legumi;76
+Seitan;Prodotti a base di cereali, legumi e patate/Legumi;140
+Tempeh;Prodotti a base di cereali, legumi e patate/Legumi;200
+Latte di soia;Bevande analcoliche/Latti vegetali;42
+Latte di mandorla;Bevande analcoliche/Latti vegetali;24
+Latte di avena;Bevande analcoliche/Latti vegetali;46
+Latte di riso;Bevande analcoliche/Latti vegetali;47
+Yogurt di soia;Latte e prodotti di latte/Yogurt e latte acidulato;55
+Petto di pollo, cotto;Carne e frattaglie/Pollame;165
+Hamburger di manzo, cotto;Carne e frattaglie/Manzo;230
+Bistecca di manzo, grigliata;Carne e frattaglie/Manzo;220
+Carne macinata di manzo, cruda;Carne e frattaglie/Manzo;195
+Spezzatino di manzo, cotto;Carne e frattaglie/Manzo;175
+Pancetta arrotolata;Prodotti carnei e insaccati/Insaccati crudi;520
+Mozzarella di bufala;Latte e prodotti di latte/Formaggio fresco e quark;260
+Ricotta di bufala;Latte e prodotti di latte/Formaggio fresco e quark;170
+Stracchino;Latte e prodotti di latte/Formaggio fresco e quark;280
+Robiola;Latte e prodotti di latte/Formaggio fresco e quark;310
+Groviera;Latte e prodotti di latte/Formaggio a pasta dura;400
+Emmental;Latte e prodotti di latte/Formaggio a pasta dura;382
+Pane di segale;Pane, fiocchi e cereali per la prima colazione/Pane e prodotti di panetteria;227
+Pane integrale;Pane, fiocchi e cereali per la prima colazione/Pane e prodotti di panetteria;255
+Pane bianco;Pane, fiocchi e cereali per la prima colazione/Pane e prodotti di panetteria;275
+Grissini;Pane, fiocchi e cereali per la prima colazione/Pane e prodotti di panetteria;420
+Crackers;Pane, fiocchi e cereali per la prima colazione/Pane e prodotti di panetteria;440
+Fette biscottate;Pane, fiocchi e cereali per la prima colazione/Pane e prodotti di panetteria;410
+Biscotti per la prima colazione;Pane, fiocchi e cereali per la prima colazione/Mix di muesli e cereali per la prima colazione;400
+Muesli;Pane, fiocchi e cereali per la prima colazione/Mix di muesli e cereali per la prima colazione;390
+Barretta ai cereali;Pane, fiocchi e cereali per la prima colazione/Mix di muesli e cereali per la prima colazione;420
+Semi di chia;Noci, semi e frutti oleosi;490
+Semi di lino;Noci, semi e frutti oleosi;534
+Semi di sesamo;Noci, semi e frutti oleosi;573
+Semi di zucca;Noci, semi e frutti oleosi;559
+Semi di girasole;Noci, semi e frutti oleosi;584
+Marmellata di arance (amara);Dolciumi/Confettura e prodotti dolci da spalmare sul pane;260
+Nutella;Dolciumi/Confettura e prodotti dolci da spalmare sul pane;544
+Crema di nocciole spalmabile;Dolciumi/Confettura e prodotti dolci da spalmare sul pane;540
+Couscous, cotto;Prodotti a base di cereali, legumi e patate/Cereali;130
+Quinoa, cotta;Prodotti a base di cereali, legumi e patate/Cereali;135
+Farro, cotto;Prodotti a base di cereali, legumi e patate/Cereali;120
+Orzo, cotto;Prodotti a base di cereali, legumi e patate/Cereali;120
+Grano saraceno, cotto;Prodotti a base di cereali, legumi e patate/Cereali;95
+Bulgur, cotto;Prodotti a base di cereali, legumi e patate/Cereali;110
